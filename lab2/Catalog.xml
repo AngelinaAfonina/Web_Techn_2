@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<product>
+		<type>teapot</type>
+		<model>Tefal1</model>
+		<specif>
+			<power MS="W">1234</power>
+			<sizeCapacity MS="l">3</sizeCapacity>
+		</specif>
+		<price curr="$">987</price>
+	</product>
+	<product>
+		<type>teapot</type>
+		<model>Tefal2</model>
+		<specif>
+			<power MS="W">1122</power>
+			<sizeCapacity MS="l">2</sizeCapacity>
+		</specif>
+		<price curr="$">567</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Samsung1</model>
+		<specif>
+			<freezer>true</freezer>
+			<noFrost>false</noFrost>
+			<energyConsum MS="KW/h">365</energyConsum>
+		</specif>
+		<price curr="$">1987</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Samsung2</model>
+		<specif>
+			<freezer>false</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">370</energyConsum>
+		</specif>
+		<price curr="$">1777</price>
+	</product>
+	<product>
+		<type>fridge</type>
+		<model>Samsung3</model>
+		<specif>
+			<freezer>true</freezer>
+			<noFrost>true</noFrost>
+			<energyConsum MS="KW/h">500</energyConsum>
+		</specif>
+		<price curr="$">2132</price>
+	</product>
+	<product>
+		<type>microwave</type>
+		<model>Electrolux1</model>
+		<specif>
+			<powerGrill MS="W">2000</powerGrill>
+			<powerWave MS="W">700</powerWave>
+			<sizeCamera MS="l">20</sizeCamera>
+		</specif>
+		<price curr="$">503</price>
+	</product>
+	<product>
+		<type>microwave</type>
+		<model>Electrolux2</model>
+		<specif>
+			<powerGrill MS="W">2100</powerGrill>
+			<powerWave MS="W">660</powerWave>
+			<sizeCamera MS="l">19</sizeCamera>
+		</specif>
+		<price curr="$">543</price>
+	</product>
+</catalog>
